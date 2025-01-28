@@ -7,7 +7,12 @@ This project aims to:
 1. Implement EKF and UKF source codes to the ROS nodes. 
 2. apply different kinds of noise distributions to sensor measurement data.
 
-A detailed documentation regarding this project can be found [here]().
+A detailed documentation regarding this project can be found [here](https://github.com/mananvora/acdc/tree/main/report/report.ipynb).
+
+### Contributors
+
+| 1 | *Manan Vora* | MSc.Automotive Engineering, RWTH Aachen University | manan.vora@rwth-aachen.de | manan.svora@gmail.com |
+| 2 | *Mayank Mayank* | MSc. Automotive Engineering, RWTH Aachen University | mayank.mayank1@rwth-aachen.de | mayank1615@gmail.com | 
 
 ## Getting started
 
